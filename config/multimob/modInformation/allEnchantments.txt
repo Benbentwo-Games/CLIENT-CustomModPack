@@ -41,13 +41,14 @@ projectred-expansion:electric_efficiency
 randomthings:magnetic
 endercore:autosmelt
 endercore:xpboost
+enderio:witherarrow
+enderio:repellent
+enderio:shimmer
 enderio:witherweapon
 enderio:soulbound
-enderio:repellent
-enderio:witherarrow
-enderio:shimmer
 bibliocraft:bibliocraft.deathcompassench
 bibliocraft:bibliocraft.readingench
+cqrepoured:lightning_protection
 matteroverdrive:overclock
 woot:headhunter
 cofhcore:holding
