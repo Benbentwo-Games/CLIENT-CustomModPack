@@ -1,0 +1,54 @@
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\dead_forest, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\mutated_mesa, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\kelp_forest, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\void, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\autumnal_wooded_hills, creating empty folder for it: failed
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\extreme_hills_with_trees, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\alps, creating empty folder for it: failed
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\glacier, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\shield, creating empty folder for it: failed
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\snowy_tundra, creating empty folder for it: failed
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\desert_hills, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\mutated_mesa_clear_rock, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\mushroom_island_shore, creating empty folder for it: failed
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\river, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\mutated_forest, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\biome_meneglin, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\mutated_extreme_hills_with_trees, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\spectral, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\maple_woods, creating empty folder for it: failed
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\plains, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\birch_forest_hills, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\desert_shrubland, creating empty folder for it: failed
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\dark_forest, creating empty folder for it: failed
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\oak_savannah, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\mutated_ice_flats, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\savanna, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\fire_swamp, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\coniferous_forest, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\rocky_plateau, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\land_of_lakes, creating empty folder for it: failed
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\desert, creating empty folder for it: failed
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\hell, creating empty folder for it: failed
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\mangrove, creating empty folder for it: failed
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\stone_beach, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\phantasmagoric_inferno, creating empty folder for it: failed
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\volcanic_island, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\quagmire, creating empty folder for it: failed
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\firefly_forest, creating empty folder for it: failed
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\arid_highland, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\bamboo_forest, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\mutated_plains, creating empty folder for it: failed
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\rainforest, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\crag, creating empty folder for it: failed
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\brushland, creating empty folder for it: success
+Did not find any Building data for H:\ATL\instances\BensCustom1122\config\ruins_config\mutated_birch_forest, creating empty folder for it: failed
+
+Loading options from: H:\ATL\instances\BensCustom1122\saves\Preview\DIM1
+tries_per_chunk_normal = 6
+chance_to_spawn_normal = 10.0
+templateInstancesMinDistance = 256.0
+anyRuinsMinDistance = 64.0
+anySpawnMinDistance = 32
+anySpawnMaxDistance = 2147483647
+Ruins mod loaded successfully for world H:\ATL\instances\BensCustom1122\saves\Preview\DIM1, template files: 31
