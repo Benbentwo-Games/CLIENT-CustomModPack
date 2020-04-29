@@ -17,7 +17,7 @@ ao:2
 renderClouds:true
 resourcePacks:[]
 incompatibleResourcePacks:[]
-lastServer:
+lastServer:127.0.0.1
 lang:en_us
 chatVisibility:0
 chatColors:true
@@ -279,7 +279,7 @@ key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
 key_key.control:29
-soundCategory_master:0.39403972
+soundCategory_master:0.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

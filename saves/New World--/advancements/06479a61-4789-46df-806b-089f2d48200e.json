@@ -1,0 +1,26 @@
+{
+  "dungeontactics:dungeoneering/born_survivor": {
+    "criteria": {
+      "stab": "2020-04-29 16:18:35 -0400"
+    },
+    "done": false
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2020-04-29 16:18:36 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2020-04-29 16:18:36 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2020-04-29 16:18:36 -0400"
+    },
+    "done": true
+  }
+}

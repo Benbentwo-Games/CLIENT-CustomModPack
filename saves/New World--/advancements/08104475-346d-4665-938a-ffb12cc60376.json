@@ -1,0 +1,44 @@
+{
+  "dungeontactics:dungeoneering/born_survivor": {
+    "criteria": {
+      "stab": "2020-04-29 16:15:06 -0400"
+    },
+    "done": false
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2020-04-29 16:15:24 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2020-04-29 16:15:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-04-29 16:15:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2020-04-29 16:29:43 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2020-04-29 16:15:16 -0400"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2020-04-29 16:15:46 -0400"
+    },
+    "done": true
+  }
+}
