@@ -1,0 +1,55 @@
+[00:00:39] [Server thread/INFO]: Saving and pausing game...
+[00:00:39] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[00:00:39] [Server thread/INFO]: Saving chunks for level 'New World'/ExtraUtils2_Quarry_Dim
+[00:00:39] [Server thread/INFO]: Saving chunks for level 'New World'/Spectre
+[00:00:39] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
+[00:01:09] [Client thread/INFO]: [CHAT] You have gained Knowledge Rank 1 of the Geonach! Check your Beastiary!
+[00:01:09] [Client thread/INFO]: [CHAT] You are now able to summon the Geonach as a temporary minion! You will need a Summoning Item to summon it.
+[00:01:17] [Client thread/INFO]: Loaded 224 advancements
+[00:01:48] [Client thread/INFO]: Loaded 225 advancements
+[00:02:08] [Client thread/INFO]: Automatic stack replacement.
+[00:02:14] [Server thread/INFO]: Saving and pausing game...
+[00:02:14] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[00:02:14] [Server thread/INFO]: Saving chunks for level 'New World'/ExtraUtils2_Quarry_Dim
+[00:02:14] [Server thread/INFO]: Saving chunks for level 'New World'/Spectre
+[00:02:14] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
+[00:02:15] [Netty Local Client IO #0/INFO]: CLIENT: Disconnected from server, enabling all click actions
+[00:02:15] [Netty Local Client IO #0/INFO]: Reset configs to client values for com.enderio.core.common.config.ConfigHandler
+[00:02:15] [Netty Local Client IO #0/INFO]: Client disconnected from server
+[00:02:15] [Netty Local Client IO #0/INFO]: Cleaning up RFTools dimensions
+[00:02:15] [Netty Local Client IO #0/INFO]: Cleaning client cache...
+[00:02:15] [Netty Local Client IO #0/INFO]: Cleared cached client data! Disconnected from server.
+[00:02:15] [Netty Local Client IO #0/INFO]: Building block state lookup table...
+[00:02:16] [Netty Local Client IO #0/INFO]: Built    block state lookup table in 1210 ms.
+[00:02:27] [Server thread/INFO]: [lain.mods.cos.InventoryManager:onServerStopping:234]: Server is stopping... force saving all loaded CosmeticArmor data.
+[00:02:27] [Server thread/INFO]: [lain.mods.cos.InventoryManager:onServerStopping:237]: 08104475-346d-4665-938a-ffb12cc60376
+[00:02:27] [Server thread/INFO]: Stopping server
+[00:02:27] [Server thread/INFO]: Saving players
+[00:02:27] [Server thread/INFO]: benbentwo2 lost connection: Disconnected
+[00:02:27] [Server thread/INFO]: benbentwo2 left the game
+[00:02:27] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:02:27] [Server thread/INFO]: Saving worlds
+[00:02:27] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[00:02:27] [Server thread/INFO]: Saving chunks for level 'New World'/ExtraUtils2_Quarry_Dim
+[00:02:27] [Server thread/INFO]: Saving chunks for level 'New World'/Spectre
+[00:02:27] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
+[00:02:27] [Server thread/INFO]: Saved 0 parts to generate
+[00:02:27] [Server thread/INFO]: Saved 0 parts to generate
+[00:02:27] [Server thread/INFO]: Saved 0 parts to generate
+[00:02:27] [Server thread/INFO]: Saved 0 parts to generate
+[00:02:27] [Server thread/INFO]: Unloading dimension 0
+[00:02:27] [Server thread/INFO]: Unloading dimension -9999
+[00:02:27] [Server thread/INFO]: Unloading dimension -343800852
+[00:02:27] [Server thread/INFO]: Unloading dimension 2
+[00:02:35] [Server thread/INFO]: JEI search tree manager injection complete!
+[00:02:36] [Server thread/INFO]: Applying holder lookups
+[00:02:36] [Server thread/INFO]: Holder lookups applied
+[00:02:36] [Server thread/INFO]: Unloaded WorldData!
+[00:02:36] [Server thread/INFO]: Cleaning up all world data: 3 data blobs
+[00:02:36] [Server thread/INFO]: FluxNetworkData has been unloaded
+[00:02:36] [Server thread/INFO]: Cleared Network Caches
+[00:02:36] [Server thread/INFO]: RFTools Dimensions: server is stopping. Shutting down gracefully
+[00:02:44] [Client thread/INFO]: Finished loading Cardboard Box blacklist (loaded 0 entries)
+[00:02:50] [Client thread/INFO]: Stopping!
+[00:02:50] [Client thread/INFO]: SoundSystem shutting down...
+[00:02:50] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
