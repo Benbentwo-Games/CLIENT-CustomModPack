@@ -2,7 +2,7 @@
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
 [INITIALIZATION][CLIENT][INFO] Loading scripts
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Unification_Crafting_Tweaks.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 442ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 384ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <thermalfoundation:material:24>
 [POSTINITIALIZATION][CLIENT][INFO] 1 removed
 [POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <techreborn:iron_furnace>
